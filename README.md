@@ -1,6 +1,5 @@
-
 # hello-world
-Welcome to my snazzy GitHub page! 
+Welcome to my very snazzy GitHub page! 
 
 Very inspired by the Women in Computing Conference this weekend. Hello new PC - or should I say "device" as Microsoft does? 
 
